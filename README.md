@@ -15,7 +15,7 @@
 ## Habilidades✨✨
 
 * **Diseño**: Adobe Creative Suite (XD, Photoshop, Illustrator, InDesign), Figma, Blender.
-* **Desarrollo**: Python, HTML, CSS, JavaScript.
+* **Desarrollo**: Python, HTML, CSS.
 
 ## Aprendiendo Actualmente🪄
 
