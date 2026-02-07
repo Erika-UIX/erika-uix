@@ -19,6 +19,7 @@
 
 ## Aprendiendo Actualmente🪄
 
+* Flutter
 * Bases de datos
 * Desarrollo web
 * AI aplicada al diseño.
